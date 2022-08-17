@@ -126,3 +126,23 @@ git push -u origin main
 >HEROKU_EMAIL_ADDRESS
 
 >DOCKER_IMAGE_NAME=<wafercircle3270303>
+  
+  
+  
+  
+  
+  
+  
+  
+predictive-maintenence                            heroku app name
+  
+68acf0af-9102-4941-afc0-498f6ee376b2              heroku api key
+  
+rokadeaditya2002@gmail.com                        heroku email address
+  
+
+adityadokerhub                                    dokerhubid
+  
+Aditya@123                                        dokerhub password
+  
+predictivemaintenence01                            doker image name
